@@ -1,0 +1,12 @@
+Main URL:http://localhost:4000
+
+1)/api/InsertApi
+This Api is used to insert filed like name and emailaddress.
+
+/api/InsertApi/check is used for calculating Highest score among the candidates
+
+/api/InsertApi/checks is used for calculating Average score among the candidates
+
+
+2)/api/ScoreApi
+This api is used to insert three fields(First_round,Second_round_Third_round) and additon emailadrress to map the address
